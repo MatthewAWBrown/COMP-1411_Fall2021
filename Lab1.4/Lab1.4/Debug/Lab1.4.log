@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab1\Lab1.4\Lab1.4\Source.cpp(14,6): warning C4101: 'answer': unreferenced local variable
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab1\Lab1.4\Lab1.4\Source.cpp(13,6): warning C4101: 'again': unreferenced local variable
+  Lab1.4.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab1\Lab1.4\Debug\Lab1.4.exe
