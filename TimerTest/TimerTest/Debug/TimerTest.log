@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab10\TimerTest\TimerTest\Source.cpp(19,38): warning C4244: '=': conversion from 'double' to 'clock_t', possible loss of data
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab10\TimerTest\TimerTest\Source.cpp(20,9): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'clock_t'
+  TimerTest.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab10\TimerTest\Debug\TimerTest.exe
