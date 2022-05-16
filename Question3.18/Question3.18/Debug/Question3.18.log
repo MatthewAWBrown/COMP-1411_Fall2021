@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Assignment2\Question3.18\Question3.18\Source.cpp(20,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Question3.18.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Assignment2\Question3.18\Debug\Question3.18.exe
