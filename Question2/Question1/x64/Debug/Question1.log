@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab9\Question2\Question1\Source.cpp(26,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'int'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab9\Question2\Question1\Source.cpp(26,10): warning C4313: 'printf': '%p' in format string conflicts with argument 2 of type 'int'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab9\Question2\Question1\Source.cpp(43,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'int'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab9\Question2\Question1\Source.cpp(43,10): warning C4313: 'printf': '%p' in format string conflicts with argument 2 of type 'int'
+  Question1.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab9\Question2\x64\Debug\Question1.exe
