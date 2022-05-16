@@ -1,0 +1,10 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(19,11): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(22,11): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(26,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(26,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(30,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(30,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(34,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Question2.18\Source.cpp(34,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+  Question2.18.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Question2.18\Debug\Question2.18.exe
