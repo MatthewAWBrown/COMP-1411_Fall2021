@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab3\Question1v2\Question1v2\Source.cpp(43,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab3\Question1v2\Question1v2\Source.cpp(44,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab3\Question1v2\Question1v2\Source.cpp(45,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab3\Question1v2\Question1v2\Source.cpp(46,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Question1v2.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab3\Question1v2\Debug\Question1v2.exe
