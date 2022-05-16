@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab4\Question3\Question3\Source.cpp(25,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab4\Question3\Question3\Source.cpp(25,9): message : consider using '%lld' in the format string
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab4\Question3\Question3\Source.cpp(25,9): message : consider using '%I64d' in the format string
+E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab4\Question3\Question3\Source.cpp(38,21): warning C4018: '<=': signed/unsigned mismatch
+  Question3.vcxproj -> E:\Documents\LU Computer Science\CLASSES\COMP-1411 Computer Programming I\Lab4\Question3\Debug\Question3.exe
